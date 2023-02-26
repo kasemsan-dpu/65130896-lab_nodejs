@@ -52,7 +52,7 @@ const products = [
     category: "cbr",
     price: 46089,
     cover:
-      "https://img2.icarcdn.com/16158/prev-desktop_bike-review-honda-cbr150r-2022-85161_000000016158_a3125aeb_c4c3_44c5_b415_770ba4748caf.jpg",
+      "https://www.ananmoney.com/wp-content/uploads/2022/08/Honda-CBR650R-2023.png",
   },
 ];
 
